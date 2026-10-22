@@ -28,27 +28,39 @@ Two distinct jobs live here — check which one is being asked for:
    IST) if not stated, purely for labeling the log file — don't block on it if
    the user just says "run it."
 
-2. **Catch it.** Check `TREND_WATCHER/SOURCES.md`. If it has real
-   accounts/queries filled in, use those. If it's still blank, say so and fall
-   back to general web search for "India trending news today" + "India
-   markets/policy news today" — load `WebSearch` (and `WebFetch` if a
-   specific article needs checking) via `ToolSearch` first if not already
-   available. Look for stories that are financial, policy, or rights-related
-   and genuinely contested.
+2. **Discover first — do NOT read prior logs yet.** Run the discovery
+   query plan in `TREND_WATCHER/SOURCES.md` §"Discovery query plan" (at
+   least 12 distinct queries across the beats listed there) via `WebSearch`
+   (load it with `ToolSearch` first). Do not search for any story by name
+   from a previous pass during this step — the point is to find what is
+   new *today*. Keep only results whose publish date/time is within the
+   freshness window: AM pass = last 18h; PM pass = since 05:30 UTC today.
+   A result with no visible date, or an old date, is not a candidate. Note:
+   `WebFetch` is blocked for most news domains in the cloud environment, so
+   rely on search-result titles/snippets and say so in the log.
 
-3. **Judge it.** For each candidate, first try the reframe (`PROCESS.md`
-   §Stage 2A — flat fact → concrete-stakes hook), then score the reframed
-   version on the 5 signals (🔥 Trend, 😮 Surprise, 💰 Impact, ⚔️ Conflict,
-   🎥 Visual). Only 4/5 or 5/5 qualifies. Separately check timing (still
-   early vs. already saturated — §Stage 2C) to route each qualifier to
-   Stage 3+4 or Stage 4-only. Narrow to the 3 strongest qualifiers. If fewer
-   than 3 survive, say so — do not pad with weak topics to hit the number.
+3. **Then apply the no-repeat filter** (`PROCESS.md` §"No-repeat rule").
+   Read `TREND_WATCHER/seen_topics.md`. Any discovered story that matches a
+   ledger entry from the last 7 days is removed from the candidate pool —
+   it cannot take one of the 3 slots, however strong it is. If it has a
+   genuinely new, dated development, it may get **one line** in the
+   "Updates on earlier stories" section (max 3 lines total). Old stories
+   are never re-drafted, re-scored or re-checked "for status".
 
-4. **Log the pass.** Write `TREND_WATCHER/logs/{{YYYY-MM-DD}}_{{AM|PM}}.md`
-   using `templates/daily_scan_log_template.md`. Check prior logs from the
-   last 1–2 days first so a story already caught and actioned isn't
-   re-presented as new — carry it forward instead if it's still inside its
-   deadline window.
+4. **Judge it.** For each remaining *new* candidate, first try the reframe
+   (`PROCESS.md` §Stage 2A — flat fact → concrete-stakes hook), then score
+   the reframed version on the 5 signals (🔥 Trend, 😮 Surprise, 💰 Impact,
+   ⚔️ Conflict, 🎥 Visual). Only 4/5 or 5/5 qualifies. Separately check
+   timing (§Stage 2C) to route each qualifier to Stage 3+4 or Stage
+   4-only. Narrow to the 3 strongest qualifiers. If fewer than 3 survive,
+   run 4–6 more discovery queries on other beats before giving up; if still
+   short, say so — never pad with weak topics and never refill a slot with
+   a previously-sent story.
+
+   **Log the pass.** Write `TREND_WATCHER/logs/{{YYYY-MM-DD}}_{{AM|PM}}.md`
+   using `templates/daily_scan_log_template.md`, including the exact
+   queries run. Then append one line per shortlisted topic to
+   `TREND_WATCHER/seen_topics.md` and commit both files together.
 
 5. **Draft first reactions.** For each of the 3 topics, fill
    `templates/first_reaction_post_template.md` — a question-framed X/Threads
@@ -65,9 +77,14 @@ Two distinct jobs live here — check which one is being asked for:
    INTERPRETATION vs OPINION vs PREDICTION vs UNKNOWN separate; nothing
    auto-publishes; the user edits and posts everything themselves.
 
-8. **Output to the user:** the 3 topics with their Judge-It verdicts, the
-   first-reaction drafts, and any full-debate drafts — in chat, plus
-   confirmation the log file was saved.
+8. **Output to the user:** the (up to) 3 *new* topics with their Judge-It
+   verdicts, the first-reaction drafts, and any full-debate drafts; then the
+   short "Updates on earlier stories" lines, if any; then a "Sources
+   checked" line listing the outlets the shortlisted stories came from — in
+   chat, plus confirmation the log file was saved. The email follows the
+   same order. The email subject names the topics, e.g.
+   `Trend Watcher — AM 2026-10-23: <topic 1> · <topic 2> · <topic 3>`, so a
+   repeat is obvious at a glance.
 
 ## When invoked (blog topics pass)
 

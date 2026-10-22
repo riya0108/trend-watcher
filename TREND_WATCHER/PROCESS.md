@@ -12,6 +12,24 @@ of (not replacing) the regular content grid.
 | **3. First reaction** | A same-day text post on X or Threads (fastest-to-publish) staking out the *question*, not the answer | Within 2–4 hours of the story breaking |
 | **4. Full debate piece** | A carousel or Reel on Instagram once the story has enough shape to explain properly, but before it stops trending | Within 24–48 hours |
 
+## No-repeat rule (applies to every news pass)
+
+Each email must bring **new** stories. A story already shortlisted in any
+pass in the last 7 days (see `seen_topics.md`) cannot take one of the 3
+slots again — not as "carried", "status check", or "updated framing".
+
+- Discovery happens first, blind to prior logs. The ledger is applied
+  afterwards as a filter. Never spend search queries re-checking old
+  stories.
+- A previously-sent story with a genuinely new, dated, material development
+  (e.g. a ruling, a result, an official number) gets **one line** under
+  "Updates on earlier stories" — max 3 such lines per pass. "Still no
+  update" is not an update and is not mentioned.
+- The PM pass must not repeat anything from the same day's AM pass.
+- A different angle on the same underlying event is still the same story.
+- If fewer than 3 new stories qualify, send fewer. 1 new story beats 3
+  repeats.
+
 ## Stage 2 — Judge It
 
 ### A. Reframe before you score

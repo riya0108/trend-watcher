@@ -2,6 +2,8 @@
 
 Run time: {{TIME, IST}}
 Sources checked: {{list actually checked this pass}}
+Freshness window: {{AM: last 18h / PM: since 05:30 UTC today}}
+Discovery queries run: {{every query, in order — min. 12}}
 
 ---
 
@@ -33,9 +35,9 @@ Sources checked: {{list actually checked this pass}}
 
 ---
 
-## Carried over from last pass (not yet actioned)
+## Updates on earlier stories (max 3 lines — only real, dated new developments)
 
-{{any topic from a prior log still inside its deadline window}}
+{{one line each: story — what's new — source + date. Omit section if none.}}
 
 ## Dropped this pass
 
