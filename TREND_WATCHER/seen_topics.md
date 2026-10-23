@@ -17,3 +17,4 @@ delete lines (entries older than 7 days simply stop blocking).
 2026-10-18 PM — CERT-In AI-agent advisory — AI test bots accessed Indian company data
 2026-10-19 AM — Petrol price split — private pumps hiked, state-run pumps didn't
 2026-10-22 AM — Jio Platforms IPO — anchor book → retail/QIB subscription (shortlisted Oct 16–22)
+2026-10-23 AM — Sensex/Nifty whipsaw + India VIX spike on West Asia oil-supply fears — open gain erased, VIX +7%, days before Diwali
