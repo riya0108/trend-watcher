@@ -19,3 +19,5 @@ delete lines (entries older than 7 days simply stop blocking).
 2026-10-22 AM — Jio Platforms IPO — anchor book → retail/QIB subscription (shortlisted Oct 16–22)
 2026-10-23 AM — Sensex/Nifty whipsaw + India VIX spike on West Asia oil-supply fears — open gain erased, VIX +7%, days before Diwali
 2026-10-23 PM — Infosys Q2 FY27 results — revenue beat + dividend raised to ₹26, but profit missed and FY27 guidance cut to 1–2%
+2026-10-25 AM — Arunachal Siang-dam protest violence — NHPC office & police station torched after tear-gas crackdown on anti-dam bandh
+2026-10-25 AM — Congress Nov 1 "vote chori" rally call — Rahul Gandhi cites ~5cr signatures alleging SIR vote-roll manipulation
