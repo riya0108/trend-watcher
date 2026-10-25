@@ -21,3 +21,5 @@ delete lines (entries older than 7 days simply stop blocking).
 2026-10-23 PM — Infosys Q2 FY27 results — revenue beat + dividend raised to ₹26, but profit missed and FY27 guidance cut to 1–2%
 2026-10-25 AM — Arunachal Siang-dam protest violence — NHPC office & police station torched after tear-gas crackdown on anti-dam bandh
 2026-10-25 AM — Congress Nov 1 "vote chori" rally call — Rahul Gandhi cites ~5cr signatures alleging SIR vote-roll manipulation
+2026-10-25 PM — FPI October outflow ₹48,056 crore — 2026 YTD outflow (₹3.08 lakh cr) already tops all of 2025
+2026-10-25 PM — Ram Mandir donation-theft probe demand — Jairam Ramesh presses SC-monitored probe, SIT capped theft at ~₹80 lakh
