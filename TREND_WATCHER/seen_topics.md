@@ -23,3 +23,5 @@ delete lines (entries older than 7 days simply stop blocking).
 2026-10-25 AM — Congress Nov 1 "vote chori" rally call — Rahul Gandhi cites ~5cr signatures alleging SIR vote-roll manipulation
 2026-10-25 PM — FPI October outflow ₹48,056 crore — 2026 YTD outflow (₹3.08 lakh cr) already tops all of 2025
 2026-10-25 PM — Ram Mandir donation-theft probe demand — Jairam Ramesh presses SC-monitored probe, SIT capped theft at ~₹80 lakh
+2026-10-29 AM — Shankar Sharma zero-CGT-for-FPIs call — at BFSI Insight Summit 2026, urged scrapping capital gains tax for foreign investors, flagged stretched IPO valuations
+2026-10-29 AM — Noel Tata exits six Tata boards amid reported Chandrasekaran dispute — retires from 6 boards Nov 12 (turns 70); one outlet links it to a reappointment governance dispute
