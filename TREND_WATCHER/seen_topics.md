@@ -25,3 +25,5 @@ delete lines (entries older than 7 days simply stop blocking).
 2026-10-25 PM — Ram Mandir donation-theft probe demand — Jairam Ramesh presses SC-monitored probe, SIT capped theft at ~₹80 lakh
 2026-10-29 AM — Shankar Sharma zero-CGT-for-FPIs call — at BFSI Insight Summit 2026, urged scrapping capital gains tax for foreign investors, flagged stretched IPO valuations
 2026-10-29 AM — Noel Tata exits six Tata boards amid reported Chandrasekaran dispute — retires from 6 boards Nov 12 (turns 70); one outlet links it to a reappointment governance dispute
+2026-11-01 AM — Qualcomm India layoffs vs. record revenue — $9.9B revenue quarter, up to ~1,200 India jobs cut under vague "performance" framing, no confirmed number
+2026-11-01 AM — India-US trade deal vs. farmer revolt — SKM calls deal "total surrender", nationwide mass action locked in from Nov 26, deal still unsigned
