@@ -27,3 +27,4 @@ delete lines (entries older than 7 days simply stop blocking).
 2026-10-29 AM — Noel Tata exits six Tata boards amid reported Chandrasekaran dispute — retires from 6 boards Nov 12 (turns 70); one outlet links it to a reappointment governance dispute
 2026-11-01 AM — Qualcomm India layoffs vs. record revenue — $9.9B revenue quarter, up to ~1,200 India jobs cut under vague "performance" framing, no confirmed number
 2026-11-01 AM — India-US trade deal vs. farmer revolt — SKM calls deal "total surrender", nationwide mass action locked in from Nov 26, deal still unsigned
+2026-11-01 PM — NPPA cancer-drug margin cap vs. 2019 precedent — "up to 70% cheaper" from Nov 9, but 2019's identical cap saw ribociclib's price rise anyway
