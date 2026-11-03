@@ -30,3 +30,4 @@ delete lines (entries older than 7 days simply stop blocking).
 2026-11-01 PM — NPPA cancer-drug margin cap vs. 2019 precedent — "up to 70% cheaper" from Nov 9, but 2019's identical cap saw ribociclib's price rise anyway
 2026-11-03 AM — AI-bubble jitters hit Indian markets — global AI-selloff fears rotate money out of IT into FMCG, India VIX +4%
 2026-11-03 AM — Delhi AQI "very poor" vs. Congress PM2.5-standards review call — blame game plus a specific ask to revise the 2009 national air quality standard
+2026-11-03 PM — Indian seafarer killed in Gulf attack off Oman (MSV Al Jusufi) — cumulative Indian death toll in Iran-conflict shipping attacks passes 22 since Feb 2026, ships keep sailing
