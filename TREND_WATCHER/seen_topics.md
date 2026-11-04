@@ -31,3 +31,4 @@ delete lines (entries older than 7 days simply stop blocking).
 2026-11-03 AM — AI-bubble jitters hit Indian markets — global AI-selloff fears rotate money out of IT into FMCG, India VIX +4%
 2026-11-03 AM — Delhi AQI "very poor" vs. Congress PM2.5-standards review call — blame game plus a specific ask to revise the 2009 national air quality standard
 2026-11-03 PM — Indian seafarer killed in Gulf attack off Oman (MSV Al Jusufi) — cumulative Indian death toll in Iran-conflict shipping attacks passes 22 since Feb 2026, ships keep sailing
+2026-11-04 AM — Tata Motors–Iveco takeover holdout — €3.8bn deal closing this week, Petrus Advisers + 20% of shareholders refuse €14.40 "final" price, Italian unions fight 2-year jobs clause
