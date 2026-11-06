@@ -32,3 +32,4 @@ delete lines (entries older than 7 days simply stop blocking).
 2026-11-03 AM — Delhi AQI "very poor" vs. Congress PM2.5-standards review call — blame game plus a specific ask to revise the 2009 national air quality standard
 2026-11-03 PM — Indian seafarer killed in Gulf attack off Oman (MSV Al Jusufi) — cumulative Indian death toll in Iran-conflict shipping attacks passes 22 since Feb 2026, ships keep sailing
 2026-11-04 AM — Tata Motors–Iveco takeover holdout — €3.8bn deal closing this week, Petrus Advisers + 20% of shareholders refuse €14.40 "final" price, Italian unions fight 2-year jobs clause
+2026-11-06 AM — Sensex/Nifty sharpest rally in weeks — Sensex +~2,009 pts (+2.6%), Nifty +~576 pts (+2.4%) on Nov 5, driven by falling crude, FII buying streak, and (per one outlet) the US midterm election result
