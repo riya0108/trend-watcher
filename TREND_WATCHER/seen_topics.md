@@ -33,3 +33,6 @@ delete lines (entries older than 7 days simply stop blocking).
 2026-11-03 PM — Indian seafarer killed in Gulf attack off Oman (MSV Al Jusufi) — cumulative Indian death toll in Iran-conflict shipping attacks passes 22 since Feb 2026, ships keep sailing
 2026-11-04 AM — Tata Motors–Iveco takeover holdout — €3.8bn deal closing this week, Petrus Advisers + 20% of shareholders refuse €14.40 "final" price, Italian unions fight 2-year jobs clause
 2026-11-06 AM — Sensex/Nifty sharpest rally in weeks — Sensex +~2,009 pts (+2.6%), Nifty +~576 pts (+2.4%) on Nov 5, driven by falling crude, FII buying streak, and (per one outlet) the US midterm election result
+2026-11-08 AM — ED raids CoinDCX & Delta Exchange over alleged FEMA violations — Costa Rica shell entity, probe widened to 5-6 Bengaluru crypto firms, ₹2,500cr-₹5,000cr+ alleged cross-border flows
+2026-11-08 AM — Agniveer 2-year extension ("Second Tour of Duty") — Congress calls it election-timed U-turn, Rajnath Singh calls it a "major gift"
+2026-11-08 AM — Bharti Airtel reclaims #2 market-cap spot from Jio Platforms — rank flipped twice in under 2 weeks since Jio's record-premium IPO debut
