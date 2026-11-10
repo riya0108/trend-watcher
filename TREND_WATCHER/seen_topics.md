@@ -38,3 +38,4 @@ delete lines (entries older than 7 days simply stop blocking).
 2026-11-08 AM — Bharti Airtel reclaims #2 market-cap spot from Jio Platforms — rank flipped twice in under 2 weeks since Jio's record-premium IPO debut
 2026-11-09 AM — Dhanteras ₹1.25L cr "record" vs. WGC volume crash — gold jewellery consumption -20% YoY (Q3 2026) even as grey-market inflows +1,500%, framed against the record-value Dhanteras headlines
 2026-11-10 AM — PhysicsWallah's AI-attributed headcount decline — Q2 FY27 earnings call: -463 employees, AI cited for content/QC/test-prep work, AI reportedly writes ~90% of its code
+2026-11-10 PM — Sonia Gandhi memoir publisher switch — Penguin steps back from Indian edition over reported government-criticism unease, HarperCollins India releases it today instead
