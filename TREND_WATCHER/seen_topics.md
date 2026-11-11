@@ -41,3 +41,5 @@ delete lines (entries older than 7 days simply stop blocking).
 2026-11-10 PM — Sonia Gandhi memoir publisher switch — Penguin steps back from Indian edition over reported government-criticism unease, HarperCollins India releases it today instead
 2026-11-11 AM — Govt EV-default fleet mandate — Finance Ministry makes EVs default for official car purchases, price ceiling doubled to ₹20L vs ₹10L for ICE
 2026-11-11 AM — Telecom tariff hike split — analysts split 10-20% on size, Jio/Airtel/Vi reportedly diverging in strategy instead of moving together
+2026-11-11 PM — Qualcomm India layoffs, conflicting severance terms — cuts began Nov 9 at Bengaluru site, record-revenue quarter, unconfirmed/contradictory severance accounts
+2026-11-11 PM — Mother Dairy/Amul/Nandini milk price hikes — three brands raise prices within days, attributed to feed costs + maize diverted to ethanol production
