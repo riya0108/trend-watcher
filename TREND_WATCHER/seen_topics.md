@@ -44,3 +44,4 @@ delete lines (entries older than 7 days simply stop blocking).
 2026-11-11 PM — Qualcomm India layoffs, conflicting severance terms — cuts began Nov 9 at Bengaluru site, record-revenue quarter, unconfirmed/contradictory severance accounts
 2026-11-11 PM — Mother Dairy/Amul/Nandini milk price hikes — three brands raise prices within days, attributed to feed costs + maize diverted to ethanol production
 2026-11-12 AM — India-US trade deal vs. Trump midterm fallout — GTRI says midterm losses could fast-track deal in 2 months; FM's "plateaued" comment + farmer union opposition say otherwise
+2026-11-13 AM — October CPI breaches RBI's 6% ceiling, Dec rate-hike size in dispute — markets fall on inflation print, ICRA's 25bps call vs SBI Research/BofA's 50bps call
