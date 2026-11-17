@@ -45,3 +45,5 @@ delete lines (entries older than 7 days simply stop blocking).
 2026-11-11 PM — Mother Dairy/Amul/Nandini milk price hikes — three brands raise prices within days, attributed to feed costs + maize diverted to ethanol production
 2026-11-12 AM — India-US trade deal vs. Trump midterm fallout — GTRI says midterm losses could fast-track deal in 2 months; FM's "plateaued" comment + farmer union opposition say otherwise
 2026-11-13 AM — October CPI breaches RBI's 6% ceiling, Dec rate-hike size in dispute — markets fall on inflation print, ICRA's 25bps call vs SBI Research/BofA's 50bps call
+2026-11-17 PM — Third cyclone (Akvan) bearing down on same Andhra coast — Odisha begins evacuations, IMD expects Nov 20 landfall near Nellore-Tuni
+2026-11-17 PM — Sensex/Nifty 2nd straight up day as global AI stocks slide — FII rotation into India debated as "hedge" (bulls) vs. Nuvama's valuation skepticism (bears)
