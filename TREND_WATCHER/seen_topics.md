@@ -47,3 +47,4 @@ delete lines (entries older than 7 days simply stop blocking).
 2026-11-13 AM — October CPI breaches RBI's 6% ceiling, Dec rate-hike size in dispute — markets fall on inflation print, ICRA's 25bps call vs SBI Research/BofA's 50bps call
 2026-11-17 PM — Third cyclone (Akvan) bearing down on same Andhra coast — Odisha begins evacuations, IMD expects Nov 20 landfall near Nellore-Tuni
 2026-11-17 PM — Sensex/Nifty 2nd straight up day as global AI stocks slide — FII rotation into India debated as "hedge" (bulls) vs. Nuvama's valuation skepticism (bears)
+2026-11-22 AM — IYC protests at Meta's India offices over Instagram restrictions — "thousands" of journalist/creator/opposition accounts restricted, 7-day ultimatum to Meta, police clashes in Hyderabad
