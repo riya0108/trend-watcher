@@ -50,3 +50,4 @@ delete lines (entries older than 7 days simply stop blocking).
 2026-11-22 AM — IYC protests at Meta's India offices over Instagram restrictions — "thousands" of journalist/creator/opposition accounts restricted, 7-day ultimatum to Meta, police clashes in Hyderabad
 2026-11-25 PM — Delhi HC declines to reopen Kartarpur Corridor — 18 months shut since Pahalgam attack, court calls it a policy call, hopes govt reviews pending plea
 2026-11-26 PM — Flipkart CEO Kalyan Krishnamurthy steps down after 11 years — Walmart's IPO stays on hold, unnamed-source reports of a timeline/liquidity rift, interim successor named
+2026-11-27 PM — Tata Trusts sues to block Tata Sons board meeting — Bombay HC injunction bid against Chandrasekaran's Sept 17 reappointment, hearing began today, Nov 30 board meeting at stake
